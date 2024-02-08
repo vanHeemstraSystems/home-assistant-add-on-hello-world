@@ -4,14 +4,16 @@ Create a new directory called ```hello_world``` inside the ```addons``` director
 
 ```
 $ cd /addons
+$ mkdir hello_world
+$ cd hello_world
 ```
 
 Studio Code Server's Terminal
 
 Inside that directory create three files:
-- Dockerfile
-- config.yaml
-- run.sh
+- Dockerfile: ```$ touch Dockerfile```
+- config.yaml: ```$ touch config.yaml```
+- run.sh: ```$ touch run.sh```
 
 ## 100 - The ```Dockerfile``` file
 
