@@ -22,3 +22,7 @@ See [README.md](./500/README.md)
 
 ## 600 - Bonus: Template add-on repository
 We maintain a full template example repository for add-ons you can use to get started. You can find that in the [```home-assistant/addons-example``` repository](https://github.com/home-assistant/addons-example).
+
+## 700 - More
+
+For more about Home Assistant Add-ons see https://developers.home-assistant.io/docs/add-ons/
