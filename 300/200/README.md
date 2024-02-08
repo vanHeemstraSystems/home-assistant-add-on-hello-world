@@ -5,7 +5,7 @@ Now comes the fun part, time to open the Home Assistant UI and install and run y
 - Open the Home Assistant frontend
 - Go to "**Settings**"
 - Click on "**Add-ons**"
-- Click "**add-on store**" in the bottom right corner.
+- Click "**ADD-ON STORE**" in the bottom right corner.
 
 [
 ![Open your Home Assistant instance and show the Supervisor add-on store.](https://my.home-assistant.io/badges/supervisor_store.svg)](https://my.home-assistant.io/redirect/supervisor_store/)
