@@ -18,4 +18,4 @@ arch:
   - i386
 ```
 
-hello_world/config.yaml
+config.yaml
