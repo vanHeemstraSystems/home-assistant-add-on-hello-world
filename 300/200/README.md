@@ -14,7 +14,7 @@ Now comes the fun part, time to open the Home Assistant UI and install and run y
 - Refresh your webpage when needed
 - You should now see a new section at the top of the store called "**Local add-ons**" that lists your add-on!
 
-IMAGE GOES HERE
+![Hello_World_Local_Add-on](https://github.com/vanHeemstraSystems/home-assistant-add-on-hello-world/assets/1499433/4154e1f2-6569-45ff-848b-863959bce9d2)
 
 - Click on your add-on to go to the add-on details page.
 - Install your add-on.
