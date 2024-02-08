@@ -1,4 +1,4 @@
-# 100 - The Dockerfile file
+# 100 - The ```Dockerfile``` file
 
 This is the image that will be used to build your add-on.
 
