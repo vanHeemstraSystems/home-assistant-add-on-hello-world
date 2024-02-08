@@ -4,7 +4,7 @@ Create a new directory called ```hello_world``` inside the ```addons``` director
 
 ```
 $ cd /addons
-$ mkdir hello_world
+$ git clone  hello_world
 $ cd hello_world
 ```
 
