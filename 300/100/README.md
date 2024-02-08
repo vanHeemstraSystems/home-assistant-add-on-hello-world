@@ -4,7 +4,7 @@ Create a new directory called ```hello_world``` inside the ```addons``` director
 
 ```
 $ cd /addons
-$ git clone  hello_world
+$ git clone https://github.com/vanHeemstraSystems/home-assistant-add-on-hello-world.git hello_world
 $ cd hello_world
 ```
 
