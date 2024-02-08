@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+home-assistant-add-on-hello-world
+# Home Assistant: Add-on "Hello World!"
 
-Based on "ABC" at https://www.abc.com/
+Based on "Tutorial: Making your first add-on" at https://developers.home-assistant.io/docs/add-ons/tutorial/
 
 ## 100 - Introduction
 
