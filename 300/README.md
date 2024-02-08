@@ -16,4 +16,8 @@ See [README.md](./300/README.md)
 
 See [README.md](./400/README.md) 
 
+## 500 - Bonus: Working with add-on options
+
+See [README.md](./500/README.md) 
+
 MORE ...
