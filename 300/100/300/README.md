@@ -8,6 +8,6 @@ This is the script that will run when your add-on starts.
 echo "Hello world!"
 ```
 
-hello_world/run.sh
+run.sh
 
 **NOTE**: Make sure your editor is using UNIX-like line breaks (LF), not DOS/Windows (CRLF).
