@@ -34,6 +34,8 @@ Dockerfile
 
 Add "ports" to ```config.yaml```. This will make TCP on port 8000 inside the container available on the host on port 8000.
 
+**IMPORTANT**: Notice that we update the ```version``` (was 1.0.0, now 1.1.0), to let Home Assistant know that we have made changes to this addon.
+
 ```
 name: "Hello world"
 description: "My first real add-on!"
