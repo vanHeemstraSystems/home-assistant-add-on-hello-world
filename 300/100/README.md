@@ -1,6 +1,12 @@
 # 100 - Step 1: The basics
 
-Create a new directory called ```hello_world```.
+Create a new directory called ```hello_world``` inside the ```addons``` directory of the Home Assistant instance. You can go there using ```Studio Code Server``` (if installed, see ) from the Home Assistant Dashboard:
+
+```
+$ cd /addons
+```
+
+Studio Code Server's Terminal
 
 Inside that directory create three files:
 - Dockerfile
