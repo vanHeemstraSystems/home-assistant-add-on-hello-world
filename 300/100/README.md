@@ -1,6 +1,6 @@
 # 100 - Step 1: The basics
 
-Create a new directory called ```hello_world``` inside the ```addons``` directory of the Home Assistant instance. You can go there using ```Studio Code Server``` (if installed, see ) from the Home Assistant Dashboard:
+Create a new directory called ```hello_world``` inside the ```addons``` directory of the Home Assistant instance. You can go there using ```Studio Code Server``` (if installed, see [Home Assistant with Visual Studio Code](https://github.com/vanHeemstraSystems/home-assistant-with-visual-studio-code)) from the Home Assistant Dashboard:
 
 ```
 $ cd /addons
