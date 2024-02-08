@@ -17,8 +17,8 @@ Now comes the fun part, time to open the Home Assistant UI and install and run y
 ![Hello_World_Local_Add-on](https://github.com/vanHeemstraSystems/home-assistant-add-on-hello-world/assets/1499433/4154e1f2-6569-45ff-848b-863959bce9d2)
 
 - Click on your add-on to go to the add-on details page.
-- Install your add-on.
-- Start your add-on.
+- Install your add-on by clicking **INSTALL**.
+- Start your add-on by clicking **START**.
 - Click on the "**Logs**" tab, and refresh the logs of your add-on, you should now see "Hello world!" in your logs.
 
 MORE ...
