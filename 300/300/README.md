@@ -32,7 +32,7 @@ CMD [ "/run.sh" ]
 
 Dockerfile
 
-Add "ports" to ```config.yaml```. This will make TCP on port 8000 inside the container available on the host on port 8000.
+Add "ports" to ```config.yaml```. This will make TCP on port 8000 inside the container available on the host on port 8001 (as port 8000 is often already taken).
 
 **IMPORTANT**: Notice that we update the ```version``` (was 1.0.0, now 1.1.0), to let Home Assistant know that we have made changes to this addon.
 
@@ -50,7 +50,7 @@ arch:
   - i386
 startup: services
 ports:
-  8000/tcp: 8000
+  8001/tcp: 8001
 ```
 
 config.yaml
@@ -62,7 +62,7 @@ Update run.sh to start the Python 3 server:
 
 echo "Hello world!"
 
-python3 -m http.server 8000
+python3 -m http.server 8001
 ```
 
 run.sh
