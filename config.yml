@@ -22,6 +22,10 @@ arch:
   - armhf
   - armv7
   - i386
+panel_icon: mdi:puzzle
+panel_title: Hello World
+panel_admin: false
+stage: experimental
 startup: services
 ports:
   8001/tcp: 8001
