@@ -12,14 +12,14 @@ Studio Code Server's Terminal
 
 Inside that directory create three files:
 - Dockerfile: ```$ touch Dockerfile```
-- config.yaml: ```$ touch config.yaml```
+- config.yaml: ```$ touch config.yml```
 - run.sh: ```$ touch run.sh```
 
 ## 100 - The ```Dockerfile``` file
 
 See [README.md](./100/README.md)
 
-## 200 - The ```config.yaml``` file
+## 200 - The ```config.yml``` file
 
 See [README.md](./200/README.md)
 
