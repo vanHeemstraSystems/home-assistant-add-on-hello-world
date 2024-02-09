@@ -5,11 +5,11 @@ Each add-on is stored in a folder. The file structure looks like this:
 ```
 addon_name (here: hello_world)/
   translations/
-    en.yaml
+    en.yml
   apparmor.txt
-  build.yaml
+  build.yml
   CHANGELOG.md
-  config.yaml
+  config.yml
   DOCS.md
   Dockerfile
   icon.png
@@ -17,3 +17,8 @@ addon_name (here: hello_world)/
   README.md
   run.sh
 ```
+
+**NOTE**: Translation files, ```config``` and ```build``` all support ```.json```, ```.yml``` and ```.yaml``` as the file type.
+
+To keep it simple all examples use ```.yml```.
+
