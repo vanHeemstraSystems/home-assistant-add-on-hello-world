@@ -2,6 +2,7 @@ name: "Hello world"
 description: "My first real add-on!"
 version: "1.2.0"
 slug: "hello_world"
+url: "website with more information about the add-on (e.g., a forum thread for support)"
 init: false
 options:
   beer: true
