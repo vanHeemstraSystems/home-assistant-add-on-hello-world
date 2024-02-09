@@ -21,7 +21,8 @@ See [README.md](./400/README.md)
 See [README.md](./500/README.md) 
 
 ## 600 - Bonus: Template add-on repository
-We maintain a full template example repository for add-ons you can use to get started. You can find that in the [```home-assistant/addons-example``` repository](https://github.com/home-assistant/addons-example).
+
+See [README.md](./600/README.md) 
 
 ## 700 - More
 
