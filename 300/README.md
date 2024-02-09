@@ -26,7 +26,7 @@ See [README.md](./600/README.md)
 
 ## 700 - More
 
-For more about Home Assistant Add-ons see https://developers.home-assistant.io/docs/add-ons/
+See [README.md](./700/README.md)
 
 ## 800 - Add-on Configuration
 
