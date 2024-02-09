@@ -22,3 +22,8 @@ addon_name (here: hello_world)/
 
 To keep it simple all examples use ```.yml```.
 
+## 100 - Add-on script
+
+See [README.md](./100/README.md)
+
+MORE ...
