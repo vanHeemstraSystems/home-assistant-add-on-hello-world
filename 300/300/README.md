@@ -5,7 +5,7 @@ Until now we've been able to do some basic stuff, but it's not very useful yet. 
 To do this, we will need to update our files as follows:
 
 - ```Dockerfile```: Install Python 3
-- ```config.yaml```: Make the port from the container available on the host
+- ```config.yml```: Make the port from the container available on the host
 - ```run.sh```: Run the Python 3 command to start the HTTP server
 
 Update your ```Dockerfile```:
@@ -32,7 +32,7 @@ CMD [ "/run.sh" ]
 
 Dockerfile
 
-Add "ports" to ```config.yaml```. This will make TCP on port 8000 inside the container available on the host on port 8001 (as port 8000 is often already taken).
+Add "ports" to ```config.yml```. This will make TCP on port 8000 inside the container available on the host on port 8001 (as port 8000 is often already taken).
 
 **IMPORTANT**: Notice that we update the ```version``` (was 1.0.0, now 1.1.0), to let Home Assistant know that we have made changes to this addon.
 
@@ -53,7 +53,7 @@ ports:
   8001/tcp: 8001
 ```
 
-config.yaml
+config.yml
 
 Update run.sh to start the Python 3 server:
 
