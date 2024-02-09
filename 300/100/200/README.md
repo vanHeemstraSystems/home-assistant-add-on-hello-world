@@ -1,4 +1,4 @@
-# 200 - The ```config.yaml``` file
+# 200 - The ```config.yml``` file
 
 This is your add-on configuration, which tells the Supervisor what to do and how to present your add-on.
 
@@ -18,4 +18,4 @@ arch:
   - i386
 ```
 
-config.yaml
+config.yml
